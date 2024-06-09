@@ -33,12 +33,14 @@ The dataset contains three files:
 
 ### Installation
 
-1. Clone the repository.
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+## How to Run
 
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/Book-Recommendation.git
+    cd Book-Recommendation
+    ```
 ### Running the Application
 
 1. Run the Streamlit app:
